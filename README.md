@@ -1,6 +1,6 @@
 ![Censos](https://github.com/AnaPatSilva/Population-Density-Portugal-Power-BI-Postgraduate-work/blob/main/Images/Censos.jpg)
-# Population Density in Portugal (Postgraduation_Assignment)
-# POWER BI
+# POPULATION DENSITY IN PORTUGAL (Postgraduation Assignment)
+# Power BI
 
 ## My Intro
 In the module Fundamentals of Business Intelligence and Data Analysis of my postgraduation, I had to do an assignment on the usefulness of Business Intelligence for handling and analyzing data.
